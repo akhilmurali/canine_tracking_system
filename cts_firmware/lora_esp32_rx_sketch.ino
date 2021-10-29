@@ -9,7 +9,7 @@
 
 // WiFi
 const char* ssid = "Airtel_9618553130";// Your personal network SSID
-const char* wifi_password = "air97668"; // Your personal network password
+const char* wifi_password = "XXXXX"; // Your personal network password
 
 // MQTT
 const char* mqtt_server = "192.168.1.8";  // IP of the MQTT broker
